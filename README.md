@@ -1,4 +1,5 @@
-Das Community-JSON der Freifunker in Frankfurt am Main.
+Dieses Repository wird nicht mehr verwendet.
 
-Für eine genaue Beschreibung siehe https://github.com/freifunk/api.freifunk.net.
-
+Das Community-JSON fuer die Frankfurter Community ist jetzt unter
+http://api.ffm.freifunk.net/ff-frankfurt.json
+abrufbar.
